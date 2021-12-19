@@ -1,8 +1,5 @@
-Advent of code Progression:
 
-![](https://img.shields.io/badge/day%20📅-3-blue)
-![](https://img.shields.io/badge/stars%20⭐-4-yellow)
-![](https://img.shields.io/badge/days%20completed-2-red)
+Hello there
 <!--
 **martijnlammers/martijnlammers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
