@@ -13,7 +13,7 @@
 ![git](https://img.shields.io/static/v1?label=&message=git&color=f05033&logo=git&style=for-the-badge&logoColor=white)
 ![nodejs](https://img.shields.io/static/v1?label=&message=nodejs&color=7bc328&logo=node.js&style=for-the-badge&logoColor=white)
 ![go](https://img.shields.io/static/v1?label=&message=go&color=00ADD8&logo=Go&style=for-the-badge&logoColor=white)
-![c++](https://img.shields.io/static/v1?label=&message=c++&color=325EA8&logo=C++&style=for-the-badge&logoColor=white)
+![cpp](https://img.shields.io/static/v1?label=&message=cpp&color=00599C&logo=cplusplus&style=for-the-badge&logoColor=white)
 
 
 <!--
